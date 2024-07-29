@@ -11,9 +11,9 @@ def fetch_stock_data(ticker, period, interval):
     end_date=datetime.now()
     if period=='1wk':
         start_date=end_date-timedelta(days=7)
-        data=yf.download(ticker, start=start_date, end=end_date, interval=interval)
+        data=yf.download(ticker, start=start_date, end=end_date, interval=interval,progress=False)
     else:
-        data=yf.download(ticker, period=period, interval=interval)
+        data=yf.download(ticker, period=period, interval=interval,progress=False)
     return data
 
 # process data to ensure it is timezone- aware and has the correct format
