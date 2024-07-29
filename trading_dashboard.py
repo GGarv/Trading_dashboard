@@ -57,7 +57,7 @@ interval_mapping={
     '1d':'1m',
     '1wk':'30m',
     '1mo':'1d',
-    '1y':'1wk',
+    '1yr':'1wk',
     'max':'1wk'
 }
 
