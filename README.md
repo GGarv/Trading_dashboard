@@ -8,7 +8,7 @@
 
 The Real-Time Stock Dashboard is a dynamic and interactive web application built using **Streamlit** and **Plotly**. It allows users to monitor and analyze stock market data in real-time, providing key metrics, technical indicators, and historical data for selected stocks. Whether you're a trader or just interested in tracking the market, this dashboard offers a powerful tool for financial analysis.
 
-![Dashboard Screenshot](https://drive.google.com/drive/u/0/home)
+![Dashboard Screenshot](https://drive.google.com/file/d/1KyrJt6nvlDEVwgfsswEj4gsnLh6gWkwF/view?usp=sharing)
 
 
 ## 🌟 Features
