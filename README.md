@@ -73,10 +73,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🛠️ Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
-
-## 📧 Contact
-
-For any questions or suggestions, feel free to reach out:
-
-- **Email**: garvgupta@gmail.com
-- **LinkedIn**: [Garv Gupta](https://www.linkedin.com/in/garvgupta)
